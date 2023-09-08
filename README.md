@@ -1,3 +1,4 @@
 # ML_template
-pythin
+python
+
 
